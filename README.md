@@ -1,0 +1,1 @@
+# Manus GitHub Test\n\nThis is a test repository created to demonstrate GitHub CLI capabilities.\n\n## Features Tested\n- Repository creation\n- File commits\n- Issue creation\n- Pull request management
